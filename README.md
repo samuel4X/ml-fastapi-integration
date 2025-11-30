@@ -1,6 +1,6 @@
 # ml-fastapi-integration
 
-1. Al descargar el repositorio crear el entorno virtual con uv venv, activarlo segun OS
+1. Al descargar el repositorio se recomienda crear el entorno virtual ejecutando "uv venv", activarlo segun OS
 
 2. Ejecutar docker build -t ml-fastapi .
 
