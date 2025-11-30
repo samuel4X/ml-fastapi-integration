@@ -1,0 +1,14 @@
+[project]
+name = "quipux"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.122.0",
+    "joblib>=1.5.2",
+    "numpy>=2.3.5",
+    "pathlib>=1.0.1",
+    "scikit-learn>=1.7.2",
+    "uvicorn>=0.38.0",
+]
